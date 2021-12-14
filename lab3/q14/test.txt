@@ -1,0 +1,4 @@
+another sample text
+for python lab
+sample
+lab
